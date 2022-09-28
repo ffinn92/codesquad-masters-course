@@ -18,7 +18,7 @@
 |프로세스 스케줄링|운영체제, 프로세스, 스케줄링, 스레드, 컨텍스트 이동|-|[링크](https://github.com/ffinn92/codesquad-masters-course/wiki/CS07-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)|
 |카페 주문 이벤트|이벤트 처리, 비동기, 복수 이벤트, 멀티 스레드|[링크](https://gist.github.com/ffinn92/ef05e2ecb0661fac83ea8b64ee8d3b06)|[링크](https://github.com/ffinn92/codesquad-masters-course/wiki/CS08-%EC%B9%B4%ED%8E%98-%EC%A3%BC%EB%AC%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)|
 |PC방 관리자|데이터베이스, MySQL, SQL|-|[링크](https://github.com/ffinn92/codesquad-masters-course/wiki/CS09-PC%EB%B0%A9-%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)|
-|HTTP Client|HTTP, Request, Response, |-|[링크](https://github.com/ffinn92/codesquad-masters-course/wiki/CS10-HTTP-Client-%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)|
+|HTTP Client|HTTP, Request, Response|-|[링크](https://github.com/ffinn92/codesquad-masters-course/wiki/CS10-HTTP-Client-%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)|
 
 </br>
 
